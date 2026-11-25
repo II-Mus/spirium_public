@@ -1,7 +1,6 @@
 # Spirium
 
-A notes app where Markdown text and hand-drawn schemes sit side by side.
-Sketch shapes, arrows and links next to your notes on a calm white page.
+A note-taking space designed for students, combining different writing styles with freeform drawing. Organize your notes, sketch diagrams, connect ideas, and visualize complex concepts — all in one flexible workspace.
 
 ## Use
 
